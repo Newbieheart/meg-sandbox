@@ -1,0 +1,1 @@
+print(' I love Magic So i love Programming ')
